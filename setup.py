@@ -3,14 +3,14 @@ from distutils.core import setup
 
 
 setup(
-    name = 'callwith',
-    version = '0.2.0',
-    py_modules = ['callwith'],
-    description = 'Call function with parameters',
+    name = 'icall',
+    version = '0.3.1',
+    py_modules = ['icall'],
+    description = 'Parameters call function, :-)',
     long_description = open('README').read(),
     author = 'huyx',
     author_email = 'ycyuxin@gmail.com',
-    url = 'https://github.com/huyx/callwith',
+    url = 'https://github.com/huyx/icall',
     keywords = ['functools', 'function', 'call'],
     classifiers = [
         "Programming Language :: Python",
